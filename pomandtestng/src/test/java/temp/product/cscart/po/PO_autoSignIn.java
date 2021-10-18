@@ -38,7 +38,7 @@ public class PO_autoSignIn {
 		
 	}
 	
-	//Business Methods
+	//Business Methods to use in generic way
 	
 	public void signInFunctionality()
 	{
